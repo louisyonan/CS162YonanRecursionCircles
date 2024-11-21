@@ -1,4 +1,8 @@
+import processing.core.PApplet;
+
 /**
+ * 
+ * 
  * Recursively draws concentric circles
  * 
  * @param center The center of the circles as a Point object
